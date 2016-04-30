@@ -12,6 +12,8 @@ namespace TestApplication1
         {
             Console.Write("2nd");
             Console.Write("3rd");
+            Console.Write("4th");
+
         }
     }
 }
